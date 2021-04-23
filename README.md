@@ -5,4 +5,5 @@
 facebook.com/advllcrt
 twitter.com/advllcrt
 linkedin.com/in/advllcrt
+stackoverflow.com/users/10779883/allyn-villacorta
 independent.academia.edu/advllcrt
