@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @advllcrt Allyn Villacorta. Computer Engineer. Programmer. 
-- 👀 I’m interested in Object-Oriented Programming Languages.
-- 🌱 I’m currently learning in Python, QT Designer and PostgreSQL Database. 
-- 📫 Reach me via
+Hi, I’m Allyn Villacorta, a Computer Engineer.
+I’m currently working as a Database Administrator, but I started my career as a Programmer and Software Engineer.
+
+You can reach me at:
 facebook.com/advllcrt
 twitter.com/advllcrt
 linkedin.com/in/advllcrt
